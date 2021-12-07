@@ -1,6 +1,6 @@
 		***CSS***
 /*все, шо в середені, буде розпізнаватися, як коментар*/
-Margin (right(: 4px), left, top, bottom, auto, 					- зовнішній відступ
+Margin (right(: 4px), left, top, bottom, auto, 					- зовнішній відступ 
 or [margin:3px 4px 5px 6px])
 
 padding (right(: 4px), left, top, bottom, auto, 				- внутрішній відступ
